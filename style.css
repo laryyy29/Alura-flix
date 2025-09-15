@@ -1,5 +1,16 @@
 body{
     background-color: rgb(255, 188, 234);
     color: blanchedalmond;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin: 0px;
+}
+
+
+header{
+    border: double 5px plum:
+    font-size: 50px;
+    h1{
+        font-size:35px ;
+        }
+ p{
+
 }
