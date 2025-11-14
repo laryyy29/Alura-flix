@@ -22,3 +22,11 @@ h1{
 p{
     font-size: 20px;
 }
+
+ section{
+    background-color: rgba(243, 11, 116, 0.527);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+ }
